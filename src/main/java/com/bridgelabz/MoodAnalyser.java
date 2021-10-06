@@ -1,7 +1,7 @@
 package com.bridgelabz;
 
 /**
- * Purpose  - Given Null Mood Should Return Happy
+ * Purpose  - Given null Mood Should Throw MoodAnalysisException
  * @author  - Utkarsh Mishra
  * @version - 16.0
  * @since   - 2021-10-05
